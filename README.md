@@ -32,7 +32,7 @@
 
 # 🚀 About Me
 
-💡 Passionate Computer Science Engineering student with hands-on experience in building scalable and responsive full-stack web applications.
+💡 Passionate Computer Science Engineering student with hands-on experience in building scalable and responsive full-stack web applications..
 
 ⚡ Skilled in:
 
