@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ashish Parihar
+# 👋 Hi, I'm Ashish Ahirwar
 
 ### 💻 Software Developer Fresher | Full Stack Developer | Python & React.js
 
