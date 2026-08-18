@@ -164,11 +164,14 @@ https://github.com/ashishparihar679/eduction
 ---
 
 # 🔥 GitHub Streak
+
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=ashishparihar679&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+
+<img
+  src="./github-streak.svg"
+  alt="GitHub Streak Stats"
+/>
+
 </div>
 
 ---
