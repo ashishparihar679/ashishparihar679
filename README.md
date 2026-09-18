@@ -5,7 +5,7 @@
 ### Full Stack Developer (Python, React & Sql) | Software Developer Fresher
 
 🎓 B.Tech in Computer Science Engineering
-📍 Bengaluru, Karnataka, India
+📍 Bengaluru, Karnataka, India 560076
 📫 **ashishparihar679@gmail.com**
 
 <p>
