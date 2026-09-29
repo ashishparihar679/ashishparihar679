@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ashish Ahirwar
 
-### Full Stack Developer (Python, React & Sql) | Software Developer Fresher
+### Full Stack Developer (Python, React) | Software Developer Fresher
 
 🎓 B.Tech in Computer Science Engineering
 📍 Bengaluru, Karnataka, India 560076
