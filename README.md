@@ -1,181 +1,368 @@
 <div align="center">
 
-# 👋 Hi, I'm Ashish Ahirwar
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Ashish%20Ahirwar&fontSize=55&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React.js%20%7C%20Python%20%7C%20Django&descAlignY=55&animation=fadeIn" width="100%" />
 
-### Full Stack Developer | React.js · Python · Django
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Full+Stack+Python+Developer+%F0%9F%9A%80;React.js+Developer+%E2%9A%9B%EF%B8%8F;Python+%7C+Django+%7C+REST+APIs;Building+Real-World+Web+Applications+%F0%9F%92%BB;Always+Learning+%26+Building+%F0%9F%94%A5" alt="Typing SVG" />
 
-📍 Bengaluru, Karnataka, India  
+<br/>
+
+📍 **Bengaluru, Karnataka, India**  
 📫 **ashishparihar679@gmail.com**
 
-<p>
-  <a href="https://portfolio-rust-chi-v14j3qr235.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/ashish-ahirwar-6268ap0000/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ashishparihar679@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/ashishparihar679">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Python+Developer;React.js+Developer;Python+%7C+Django+%7C+REST+APIs;Building+useful+web+applications" alt="Typing introduction" />
+<a href="https://portfolio-rust-chi-v14j3qr235.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/ashish-ahirwar-6268ap0000/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:ashishparihar679@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/ashishparihar679">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
----
+<br/>
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science Engineering graduate focused on full-stack development. I build responsive web applications with **React, Python, Django, Django REST Framework, and MySQL**, with attention to clear interfaces, reliable APIs, and useful details.
+```javascript
+const ashish = {
+    location: "Bengaluru, India 🇮🇳",
+    education: "B.Tech Computer Science Engineering",
+    role: "Full Stack Developer",
+    frontend: ["React.js", "JavaScript", "HTML", "CSS"],
+    backend: ["Python", "Django", "Django REST Framework"],
+    database: ["MySQL", "PostgreSQL"],
+    tools: ["Git", "GitHub", "Postman", "Figma"],
+    currentlyLearning: ["DSA", "System Design"],
+    goal: "Build scalable products & become a better developer 🚀"
+};
+```
 
-I completed a **Python Full Stack Development program at Cybrom Technology Pvt. Ltd.** and worked on Django REST APIs, React interfaces, API testing, and MySQL database workflows. I'm looking for software development opportunities where I can keep learning and contribute to real products.
+I'm a **Computer Science Engineering graduate** focused on full-stack development. I enjoy building responsive web applications using **React, Python, Django, Django REST Framework, and databases**.
+
+I completed a **Python Full Stack Development program at Cybrom Technology Pvt. Ltd.**, where I worked with Django REST APIs, React interfaces, API testing, and database workflows.
 
 - 🎓 B.Tech in Computer Science Engineering
-- 💻 Interested in full-stack web development
-- 🧩 Practicing Data Structures and Algorithms in C++
-- 📍 Based in Bengaluru, Karnataka, India
+- 💻 Full Stack Web Development
+- 🧩 Practicing Data Structures & Algorithms in C++
+- 🚀 Building real-world full-stack projects
+- 🌱 Continuously learning new technologies
+- 📍 Bengaluru, Karnataka, India
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-**Languages**  
-![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![C++](https://skillicons.dev/icons?i=cpp)
+<div align="center">
 
-**Frontend**  
-![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![React](https://skillicons.dev/icons?i=react) ![Figma](https://skillicons.dev/icons?i=figma)
+### 💻 Programming Languages
 
-**Backend & Database**  
-![Django](https://skillicons.dev/icons?i=django) ![MySQL](https://skillicons.dev/icons?i=mysql)
+<img src="https://skillicons.dev/icons?i=python,javascript,cpp&theme=dark" />
 
-**Tools**  
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Postman](https://skillicons.dev/icons?i=postman)
+### 🎨 Frontend Development
 
-Also familiar with **Django REST Framework, REST APIs, and Data Structures & Algorithms**.
+<img src="https://skillicons.dev/icons?i=html,css,react,figma&theme=dark" />
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=django,mysql,postgres&theme=dark" />
+
+### 🔧 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel&theme=dark" />
+
+<br/>
+
+`Django REST Framework` • `REST APIs` • `JWT Authentication` • `DSA`
+
+</div>
 
 ---
 
 ## 💼 Experience
 
-### Python Full Stack Developer Intern  
-**Cybrom Technology Pvt. Ltd.** · Bhopal, Madhya Pradesh  
-*January 2026 – March 2026*
+### 🐍 Python Full Stack Developer Intern
 
-- Developed and tested REST APIs using Django and Django REST Framework.
-- Built responsive and interactive interfaces using React.js.
-- Tested and debugged APIs with Postman.
-- Worked with MySQL databases and resolved application issues.
+**Cybrom Technology Pvt. Ltd.** — Bhopal, Madhya Pradesh  
+📅 **January 2026 – March 2026**
+
+- ⚡ Developed and tested REST APIs using **Django & Django REST Framework**
+- ⚛️ Built responsive and interactive interfaces using **React.js**
+- 🧪 Tested and debugged APIs using **Postman**
+- 🗄️ Worked with **MySQL databases**
+- 🐞 Debugged and resolved full-stack application issues
 
 ---
 
-## 🚀 Selected Projects
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🏠 Smart Home Service Platform
-A full-stack home service booking application with service management and a responsive React frontend.
 
-**Tech:** React.js · Django · MySQL · JWT
+A full-stack home-service booking platform connecting customers with service providers.
 
-- Service booking functionality
-- JWT authentication
-- REST API integration
-- Responsive frontend
+**⚙️ Tech Stack**
 
-[Live Demo](https://homeservice-ecru.vercel.app/) · [GitHub Repository](https://github.com/ashishparihar679/smarthome)
+`React.js` `Django` `REST API` `JWT` `PostgreSQL`
 
-### 📘 Education Website — Full Stack
-A learning platform built with a React frontend and Django backend.
+**✨ Features**
 
-**Tech:** React.js · Django · MySQL
+- 🔐 JWT Authentication
+- 🛠️ Multiple Home Services
+- 📅 Service Booking
+- 👷 Worker Management
+- 🔄 Booking Status Management
+- 📱 Responsive Interface
 
-- Reusable React components
-- CRUD operations
-- Django REST APIs
-- MySQL database management
+<br/>
 
-[GitHub Repository](https://github.com/ashishparihar679/eduction)
+<a href="https://homeservice-ecru.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ashishparihar679/smarthome">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📘 Education Website
+
+A full-stack learning platform built using React and Django.
+
+**⚙️ Tech Stack**
+
+`React.js` `Django` `MySQL` `REST API`
+
+**✨ Features**
+
+- ⚛️ Reusable React Components
+- ✏️ CRUD Operations
+- 🔗 REST API Integration
+- 🗄️ MySQL Database
+- 📱 Responsive Design
+
+<br/>
+
+<a href="https://github.com/ashishparihar679/eduction">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 📊 React CRUD Dashboard
-A responsive dashboard for creating, updating, and deleting records.
 
-**Tech:** React.js · JavaScript
+A responsive dashboard for managing application records.
 
-[GitHub Repository](https://github.com/ashishparihar679/react-crud-dashboard)
+**⚙️ Tech Stack**
 
-### 🚀 AI Powered Career Boost
-A collaborative hackathon project for AI-assisted career guidance.
+`React.js` `JavaScript`
 
-**Tech:** React.js · Django · MySQL · AI Integration
+**✨ Features**
 
-- Resume analysis and skill extraction
-- Resume-to-role matching and skill-gap insights
-- Quiz generation and mock interview features
+- ➕ Create Records
+- 👀 View Records
+- ✏️ Update Records
+- 🗑️ Delete Records
+- 📱 Responsive UI
 
-[Live Demo](https://flux-as.netlify.app/) · [GitHub Repository](https://github.com/AjayGour09/Navkalpana-RICR-NK-0030)
+<br/>
+
+<a href="https://github.com/ashishparihar679/react-crud-dashboard">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI Powered Career Boost
+
+Collaborative hackathon project providing AI-assisted career preparation tools.
+
+**⚙️ Tech Stack**
+
+`React.js` `Django` `MySQL` `AI Integration`
+
+**✨ Features**
+
+- 📄 Resume Analysis
+- 🎯 Resume-to-Role Matching
+- 📊 Skill Gap Insights
+- 🧠 AI Quiz Generation
+- 🎤 Mock Interview Features
+
+<br/>
+
+<a href="https://flux-as.netlify.app/">
+<img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AjayGour09/Navkalpana-RICR-NK-0030">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎓 Education
 
-### B.Tech in Computer Science Engineering
-**Technocrats Institute of Technology & Science** · 2022–2026  
-7.4 CGPA · Affiliated with RGPV University
+<table>
+<tr>
+<td>🎓</td>
+<td>
+<strong>B.Tech — Computer Science Engineering</strong><br/>
+Technocrats Institute of Technology & Science<br/>
+2022 – 2026<br/>
+<strong>CGPA: 7.4</strong>
+</td>
+</tr>
 
-### Higher Secondary — Class 12
-**Anand Vihar Model Higher Secondary School** · 2021–2022  
-66% · Science Stream (PCM)
+<tr>
+<td>🏫</td>
+<td>
+<strong>Higher Secondary — Class 12</strong><br/>
+Anand Vihar Model Higher Secondary School<br/>
+2021 – 2022<br/>
+<strong>66% · PCM</strong>
+</td>
+</tr>
 
-### Secondary — Class 10
-**Anand Vihar Model Higher Secondary School** · 2019–2020  
-68.75%
+<tr>
+<td>📚</td>
+<td>
+<strong>Secondary — Class 10</strong><br/>
+Anand Vihar Model Higher Secondary School<br/>
+2019 – 2020<br/>
+<strong>68.75%</strong>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏅 Certifications
 
-- **Cybersecurity Analyst Professional Certificate** — IBM SkillsBuild
-- **GenAI Powered Data Analytics Job Simulation** — Tata · Forage
-- **Data Analytics Job Simulation** — Deloitte · Forage
-- **Python Full Stack Development** — Cybrom Technology Pvt. Ltd.
-
----
-
-## 🧠 Achievements
-
-- Solved **100+ DSA problems** using C++.
-- Earned a **3-Star rating in C++** on HackerRank.
-- Participated in the **Navkalpana AI Powered Career Boost Hackathon** as part of a team.
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ashishparihar679&show_icons=true&theme=tokyonight&hide_border=true" alt="Ashish's GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.vercel.app/?user=ashishparihar679&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishparihar679&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub activity graph" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishparihar679&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+| Certification | Organization |
+|:---|:---:|
+| 🛡️ Cybersecurity Analyst Professional Certificate | IBM SkillsBuild |
+| 📊 GenAI Powered Data Analytics Job Simulation | Tata · Forage |
+| 📈 Data Analytics Job Simulation | Deloitte · Forage |
+| 🐍 Python Full Stack Development | Cybrom Technology Pvt. Ltd. |
 
 </div>
 
 ---
 
+## 🏆 Achievements
+
 <div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>💻 100+</h3>
+DSA Problems<br/>Solved
+</td>
+
+<td align="center" width="33%">
+<h3>⭐⭐⭐</h3>
+3-Star C++<br/>HackerRank
+</td>
+
+<td align="center" width="33%">
+<h3>🚀 Hackathon</h3>
+NavKalpana<br/>Participant
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashishparihar679&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishparihar679&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishparihar679&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashishparihar679&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ashishparihar679/ashishparihar679/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+
+</div>
+
+> The contribution snake requires a GitHub Actions workflow before it will appear.
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+I'm interested in **Full Stack Development, Python Development, React.js Development, and Software Engineering opportunities.**
+
+<a href="https://www.linkedin.com/in/ashish-ahirwar-6268ap0000/">
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ashishparihar679@gmail.com">
+<img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-rust-chi-v14j3qr235.vercel.app/">
+<img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br/><br/>
 
 ### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" width="100%" />
 
 </div>
