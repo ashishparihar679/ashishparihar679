@@ -2,28 +2,27 @@
 
 # 👋 Hi, I'm Ashish Ahirwar
 
-### Full Stack Developer (Python, React) | Software Developer Fresher
+### Full Stack Developer | React.js · Python · Django
 
-🎓 B.Tech in Computer Science Engineering
-📍 Bengaluru, Karnataka, India 560076
+📍 Bengaluru, Karnataka, India  
 📫 **ashishparihar679@gmail.com**
 
 <p>
   <a href="https://portfolio-rust-chi-v14j3qr235.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/ashish-ahirwar-6268ap0000">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ashish-ahirwar-6268ap0000/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ashishparihar679@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/ashishparihar679">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+(Python+%2B+React);Django+%7C+DRF+%7C+REST+APIs;AWS+Cloud+Practitioner;Open+to+Software+Development+Opportunities"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Python+Developer;React.js+Developer;Python+%7C+Django+%7C+REST+APIs;Building+useful+web+applications" alt="Typing introduction" />
 
 </div>
 
@@ -31,95 +30,124 @@
 
 ## 👨‍💻 About Me
 
-I'm a **B.Tech Computer Science graduate and Full Stack Developer** who builds reliable, production-style web applications end to end — from database design and REST APIs to responsive React interfaces.
+I'm a Computer Science Engineering graduate focused on full-stack development. I build responsive web applications with **React, Python, Django, Django REST Framework, and MySQL**, with attention to clear interfaces, reliable APIs, and useful details.
 
-I completed a **Python Full Stack Developer internship at Cybrom Technology Pvt. Ltd.**, where I got hands-on experience shipping real features with Django and React. I'm now looking for a full-time **Graduate Trainee / Full Stack Developer** role where I can keep building things that matter.
+I completed a **Python Full Stack Development program at Cybrom Technology Pvt. Ltd.** and worked on Django REST APIs, React interfaces, API testing, and MySQL database workflows. I'm looking for software development opportunities where I can keep learning and contribute to real products.
 
-### 💡 Core Strengths
-
-- 💻 Full Stack Web Development (Django + React)
-- 🐍 Python & Django (REST Framework)
-- ⚛️ React.js — Hooks, Routing, State Management
-- 🔗 REST API Design & Integration
-- 🗄️ MySQL & Database Design
-- ☁️ AWS Cloud Fundamentals
-- 🧩 Data Structures & Algorithms (C++)
-- 🔧 Git, GitHub & Deployment (Docker, Vercel)
+- 🎓 B.Tech in Computer Science Engineering
+- 💻 Interested in full-stack web development
+- 🧩 Practicing Data Structures and Algorithms in C++
+- 📍 Based in Bengaluru, Karnataka, India
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages:** ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![C++](https://skillicons.dev/icons?i=cpp) ![Java](https://skillicons.dev/icons?i=java)
+**Languages**  
+![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![C++](https://skillicons.dev/icons?i=cpp)
 
-**Frontend:** ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![React](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+**Frontend**  
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![React](https://skillicons.dev/icons?i=react) ![Figma](https://skillicons.dev/icons?i=figma)
 
-**Backend:** ![Django](https://skillicons.dev/icons?i=django) ![Node.js](https://skillicons.dev/icons?i=nodejs)
+**Backend & Database**  
+![Django](https://skillicons.dev/icons?i=django) ![MySQL](https://skillicons.dev/icons?i=mysql)
 
-**Database & Tools:** ![MySQL](https://skillicons.dev/icons?i=mysql) ![SQLite](https://skillicons.dev/icons?i=sqlite) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) ![Postman](https://skillicons.dev/icons?i=postman) ![VS Code](https://skillicons.dev/icons?i=vscode)
+**Tools**  
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Postman](https://skillicons.dev/icons?i=postman)
+
+Also familiar with **Django REST Framework, REST APIs, and Data Structures & Algorithms**.
 
 ---
 
 ## 💼 Experience
 
-### Python Full Stack Developer Intern — **Cybrom Technology Pvt. Ltd.**, Bhopal
-- Built and maintained features across the stack using **Python, Django, and React.js**
-- Worked with REST APIs and MySQL to support end-to-end application workflows
-- Collaborated in a team environment following Git-based version control practices
+### Python Full Stack Developer Intern  
+**Cybrom Technology Pvt. Ltd.** · Bhopal, Madhya Pradesh  
+*January 2026 – March 2026*
+
+- Developed and tested REST APIs using Django and Django REST Framework.
+- Built responsive and interactive interfaces using React.js.
+- Tested and debugged APIs with Postman.
+- Worked with MySQL databases and resolved application issues.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
-### 🏠 SmartHome — Smart Home Service Platform
-**Full Stack Service Booking Application**
-`React.js` · `Django` · `Django REST Framework` · `MySQL`
+### 🏠 Smart Home Service Platform
+A full-stack home service booking application with service management and a responsive React frontend.
 
-- 🔐 User authentication & authorization
-- 👷 Worker registration & service management
-- 📅 End-to-end service booking system
-- 🔗 REST API integration with a responsive React frontend
-- 🚀 Deployed full-stack application
+**Tech:** React.js · Django · MySQL · JWT
 
-**Repo:** https://github.com/ashishparihar679/smarthome
-**Live Demo:** https://homeservice-ecru.vercel.app/login
+- Service booking functionality
+- JWT authentication
+- REST API integration
+- Responsive frontend
+
+[Live Demo](https://homeservice-ecru.vercel.app/) · [GitHub Repository](https://github.com/ashishparihar679/smarthome)
+
+### 📘 Education Website — Full Stack
+A learning platform built with a React frontend and Django backend.
+
+**Tech:** React.js · Django · MySQL
+
+- Reusable React components
+- CRUD operations
+- Django REST APIs
+- MySQL database management
+
+[GitHub Repository](https://github.com/ashishparihar679/eduction)
+
+### 📊 React CRUD Dashboard
+A responsive dashboard for creating, updating, and deleting records.
+
+**Tech:** React.js · JavaScript
+
+[GitHub Repository](https://github.com/ashishparihar679/react-crud-dashboard)
+
+### 🚀 AI Powered Career Boost
+A collaborative hackathon project for AI-assisted career guidance.
+
+**Tech:** React.js · Django · MySQL · AI Integration
+
+- Resume analysis and skill extraction
+- Resume-to-role matching and skill-gap insights
+- Quiz generation and mock interview features
+
+[Live Demo](https://flux-as.netlify.app/) · [GitHub Repository](https://github.com/AjayGour09/Navkalpana-RICR-NK-0030)
 
 ---
 
-### 🔍 DealIQ — AI-Powered Product Comparison Platform
-`React.js` · `Django` · `REST API` · `AI Integration`
+## 🎓 Education
 
-- Compares products across sources to help users make informed buying decisions
-- AI-assisted analysis layered on top of a Django + React full-stack architecture
+### B.Tech in Computer Science Engineering
+**Technocrats Institute of Technology & Science** · 2022–2026  
+7.4 CGPA · Affiliated with RGPV University
 
----
+### Higher Secondary — Class 12
+**Anand Vihar Model Higher Secondary School** · 2021–2022  
+66% · Science Stream (PCM)
 
-### 📘 Education Platform
-**Full Stack Learning Management Website**
-`React.js` · `Django` · `MySQL` · `REST API`
-
-- 🔐 User authentication & role-based access
-- 📝 CRUD-based content management
-- 🗄️ Structured relational database design
-- 📱 Fully responsive UI
-
-**Repo:** https://github.com/ashishparihar679/eduction
+### Secondary — Class 10
+**Anand Vihar Model Higher Secondary School** · 2019–2020  
+68.75%
 
 ---
 
-## 🧠 Problem Solving
+## 🏅 Certifications
 
-- ⭐ 150+ DSA problems solved on LeetCode
-- ⭐ 3-Star rating in C++ on HackerRank
-- 🧩 Strong foundation in OOP, DSA, and system design basics
+- **Cybersecurity Analyst Professional Certificate** — IBM SkillsBuild
+- **GenAI Powered Data Analytics Job Simulation** — Tata · Forage
+- **Data Analytics Job Simulation** — Deloitte · Forage
+- **Python Full Stack Development** — Cybrom Technology Pvt. Ltd.
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🧠 Achievements
 
-- ☁️ **AWS Cloud Practitioner** — Amazon Web Services
-- 🏅 **GenAI Powered Data Analytics Job Simulation** — Forage
-- 🚀 Participant, **NavKalpana AI-Based Project Hackathon**
+- Solved **100+ DSA problems** using C++.
+- Earned a **3-Star rating in C++** on HackerRank.
+- Participated in the **Navkalpana AI Powered Career Boost Hackathon** as part of a team.
 
 ---
 
@@ -127,37 +155,24 @@ I completed a **Python Full Stack Developer internship at Cybrom Technology Pvt.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ashishparihar679&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.vercel.app/?user=ashishparihar679&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ashishparihar679&show_icons=true&theme=tokyonight&hide_border=true" alt="Ashish's GitHub stats" />
+<img height="165" src="https://github-readme-streak-stats.vercel.app/?user=ashishparihar679&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishparihar679&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishparihar679&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub activity graph" />
 
 </div>
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishparihar679&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishparihar679&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 </div>
 
 ---
-
-## 🌍 Languages
-
-- 🇮🇳 Hindi — Native
-- 🇬🇧 English — Professional Working Proficiency
-
----
-
-## 🎯 Career Objective
-
-> Seeking an entry-level **Full Stack Developer / Software Developer** role where I can apply my Python + React skill set, contribute to production-grade systems, and grow as an engineer.
-
-**Open to:** Bengaluru · Bhopal · Indore · Pune · Hyderabad · Remote
 
 <div align="center">
 
