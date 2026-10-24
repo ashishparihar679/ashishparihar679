@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Ashish%20Ahirwar&fontSize=55&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React.js%20%7C%20Python%20%7C%20Django&descAlignY=55&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Full+Stack+Python+Developer+%F0%9F%9A%80;React.js+Developer+%E2%9A%9B%EF%B8%8F;Python+%7C+Django+%7C+REST+APIs;Building+Real-World+Web+Applications+%F0%9F%92%BB;Always+Learning+%26+Building+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Full+Stack+Python+Developer+%F0%9F%9A%80;React.js+Developer+%E2%9A%9B%EF%B8%8F;Python+%7C+DjanOgo+%7C+REST+APIs;Building+Real-World+Web+Applications+%F0%9F%92%BB;Always+Learning+%26+Building+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
