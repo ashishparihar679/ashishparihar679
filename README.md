@@ -6,7 +6,7 @@
 
 <br/>
 
-📍 **Bengaluru, Karnataka, India**  
+📍 **Bengaluru, Karnataka, India **  
 📫 **ashishparihar679@gmail.com**
 
 <br/>
@@ -28,7 +28,7 @@
 
 <br/>
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me.
 
 ```javascript
 const ashish = {
