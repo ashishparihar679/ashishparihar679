@@ -28,7 +28,7 @@
 
 <br/>
 
-## 👨‍💻 About Me....
+## 👨‍💻 About Me.
 
 ```javascript
 const ashish = {
