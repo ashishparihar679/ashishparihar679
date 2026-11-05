@@ -39,7 +39,7 @@ const ashish = {
     backend: ["Python", "Django", "Django REST Framework"],
     database: ["MySQL", "PostgreSQL"],
     tools: ["Git", "GitHub", "Postman", "Figma"],
-    currentlyLearning: ["DSA", "System Design"],
+    currentlyLearning: ["DSA"],
     goal: "Build scalable products & become a better developer 🚀"
 };
 ```
