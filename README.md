@@ -1,4 +1,4 @@
-<div align="center">
+⁷<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Ashish%20Ahirwar&fontSize=55&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React.js%20%7C%20Python%20%7C%20Django&descAlignY=55&animation=fadeIn" width="100%" />
 
@@ -28,7 +28,7 @@
 
 <br/>
 
-## 👨‍💻 About Me....
+## 👨‍💻 About Me.
 
 ```javascript
 const ashish = {
