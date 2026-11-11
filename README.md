@@ -28,7 +28,7 @@
 
 <br/>
 
-## 👨‍💻 About Me............
+## 👨‍💻 About Me.
 
 ```javascript
 const ashish = {
@@ -44,7 +44,7 @@ const ashish = {
 };
 ```
 
-I'm a **Computer Science Engineering graduate** focused on full-stack development. I enjoy building responsive web applications using **React, Python, Django, Django REST Framework, and databases**.
+I'm a **Computer Science Engineering graduate** focused on full-stack development. I enjoy building responsive web applications using **React, Python, Django, Django REST Framework, and databases**..
 
 I completed a **Python Full Stack Development program at Cybrom Technology Pvt. Ltd.**, where I worked with Django REST APIs, React interfaces, API testing, and database workflows.
 
