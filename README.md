@@ -85,7 +85,7 @@ I completed a **Python Full Stack Development program at Cybrom Technology Pvt. 
 
 ---
 
-## 💼 Experience
+## 💼 Experience.
 
 ### 🐍 Python Full Stack Developer Intern
 
